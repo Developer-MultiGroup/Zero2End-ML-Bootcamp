@@ -50,7 +50,18 @@ Bu bootcamp, her seviyeden katılımcıya açıktır! Eğer:<br>
 <details>
 <summary>Click to expand!</summary>
 
+Notebooklar:
 
+- [Python Notebook'u](https://colab.research.google.com/drive/1eYouIAf-x5wzytsZqr3URQgVNtXVuwuo?usp=drive_link)
+- [Data Libraries Notebook'u](https://colab.research.google.com/drive/1bqeHbLfN0elamxFrqOiE_ASMWIdtol-A?usp=drive_link)
+
+Notebook'lardaki kaynaklar:
+- [Örnek Python Projeleri - Freecodecamp](https://www.freecodecamp.org/news/python-projects-for-beginners/)
+- [Freecodecamp Youtube](https://www.youtube.com/@freecodecamp) 
+- [Data Kütüphanelerinin GPU Alternatifleriyle Bir Örnek Proje](https://medium.com/@gokerguner/machine-learning-7-gpu-k%C3%BCt%C3%BCphaneleriyle-u%C3%A7tan-uca-ml-projesi-344582399428)
+- [ABD Kongre Sınıflandırma Projesinin Daha Geniş Anlatımı](https://medium.com/@gokerguner/machine-learning-1-7d4581caa291)
+- [Scikit-learn dokümantasyonu](https://scikit-learn.org/stable/)
+- [UCI ML Repository Datasets](https://archive.ics.uci.edu/datasets)
 
 </details>
 
