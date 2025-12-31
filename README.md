@@ -207,7 +207,7 @@ Stage 1'de veri biliminin temellerini attıktan sonra, Stage 2'de farklı sektö
 <summary>Click to expand!</summary>
  
 📂 **Ders Materyalleri**
-- 📄 []()
+- 📄 [Notebook](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_ETA_prediction_project.ipynb)
 
 **Topluluktan Gelenler:**
 - 📄 [Transkript Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_eta_prediction_ozge_usta_.pdf)
